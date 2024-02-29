@@ -1,0 +1,11 @@
+{
+  "parentOnly": "Parent ONLY STRING",
+  "helloText": "Parent SDK",
+  "helloText2": "Parent SDK",
+  "pleaseConfirm": "Parent SDK",
+  "newTransfer": "Parent SDK",
+  "termsConditions": "Parent SDK",
+  "termsConditionsUpper": "Parent SDK",
+  "byClickingYesIAgreeToThe": "Parent SDK",
+  "getImageFromGallery": "Parent AND RPP String"
+}
